@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bedirhan-köksoy-878b85194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bedirhan-köksoy-878b85194/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bedirhan-köksoy-878b85194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bedirhan-köksoy-878b85194" height="30" width="40" /></a>
 <a href="https://instagram.com/bedirhan.3501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bedirhan.3501" height="30" width="40" /></a>
 </p>
 
